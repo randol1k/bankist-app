@@ -211,7 +211,7 @@ const calculateMovements = function (movements) {
                 new Date(currentUser.movementsDates[i])
             );
 
-            const dateToDisplay;
+            let dateToDisplay;
 
             // Decide what message to be shown in the transaction Summary
             if (transactionAge <= 1) {
