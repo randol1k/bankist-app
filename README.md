@@ -7,4 +7,4 @@ Use the following test credentials to login:
 3. user: stw, password: 3333;
 4. user: ss, password: 4444.
 
-As always, the project was created and studied by Jonas Schemdtmann. I was re-writing it by myself, without hints and the source code.
+As always, the project was created and studied by Jonas Schmedtmann. I was re-writing it by myself, without hints and the source code.
